@@ -8,7 +8,7 @@ Cette formation s'adresse à des personnes ayant l'habitude de manipuler des don
 Nous verrons comment appliquer ces algorithmes de Machine Learning sur des jeux de données en fonction des problématiques, mais également comment les évaluer.
 
 
-## Convention nomage
+## Convention nommage
 
 La convention de nommage est : `CHAPITRE#_VIDEO#`. Par exemple, la branche nommée`02_03` correspond au second chapitre, et à la troisième vidéo de ce chapitre. 
 
