@@ -21,8 +21,6 @@ Ouvrez ensuite les notebooks grâce à Jupyter Notebook
 **Alison Patou** 
 
 Retrouvez mes autres formations sur [LinkedIn Learning](https://www.linkedin.com/learning/instructors/alison-patou).
-Les visualisations de données en Python: (https://www.linkedin.com/learning/python-la-visualisation-des-donnees)  
-L'essentiel de Python : (https://www.linkedin.com/learning/l-essentiel-de-python/)  
 
 [1]: # (End of FR-Instruction ###############################################################################################)
 
