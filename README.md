@@ -12,9 +12,9 @@ La convention de nommage est : `CHAPITRE#_VIDEO#`. Par exemple, la branche nomm�
 
 ## Installation
 
-Pour utiliser ces fichiers d’exercice, vous avez besoin de : [Jupyter Notebook](https://jupyter.org/install)
-Clonez ce dossier Repository sur votre machine locale (Mac), CMD (Windows), ou sur un outil GUI tel que SourceTree
-Ouvrez ensuite les notebooks grâce à Jupyter Notebook
+1. Pour utiliser ces fichiers d’exercice, vous avez besoin de : [Jupyter Notebook](https://jupyter.org/install)
+2. Clonez ce dossier Repository sur votre machine locale (Mac), CMD (Windows), ou sur un outil GUI tel que SourceTree
+3. Ouvrez ensuite les notebooks grâce à Jupyter Notebook
 
 ### Formatrice
 
