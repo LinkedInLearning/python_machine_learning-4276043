@@ -4,7 +4,7 @@ Ce dossier Repository est lié au cours `Python pour le machine learning`. Le co
 
 ![Nom final de la formation](https://media.licdn.com/dms/image/v2/D4E0DAQEzCmZbL3OjBg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1731579011854?e=2147483647&v=beta&t=MciXfAgWcmLSM4DqdH41wtRNRvQvkFJUwOLdY44N22A)
 
-Cette formation s'adresse aux utilisateurs expérimentés de Python souhaitant appliquer des algorithmes de machine learning à des jeux de données. Vous découvrirez la régression, la classification et le clustering, ainsi que les méthodes d'évaluation des modèles. À travers des défis pratiques, vous apprendrez à préparer, traiter et normaliser vos données, tout en utilisant des outils comme CoderPad pour tester vos connaissances et affiner vos compétences. </br></br> Ce cours est intégré à GitHub Codespaces, un environnement de développement cloud offrant les fonctionnalités de votre IDE préféré sans devoir configurer une machine locale. Avec GitHub Codespaces, vous pouvez vous exercer à partir de n'importe quelle machine, à tout moment.
+Cette formation s'adresse aux utilisateurs expérimentés de Python souhaitant appliquer des algorithmes de machine learning à des jeux de données. Vous découvrirez la régression, la classification et le clustering, ainsi que les méthodes d'évaluation des modèles. À travers des défis pratiques, vous apprendrez à préparer, traiter et normaliser vos données, tout en utilisant des outils comme CoderPad pour tester vos connaissances et affiner vos compétences. 
 
 ## Convention de nommage
 
