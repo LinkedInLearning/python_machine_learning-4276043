@@ -1,6 +1,6 @@
 #  Python pour le machine learning
 
-Ce dossier Repository est lié au cours `Python pour le machine learning`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
+Ce dossier Repository est lié au cours `Python pour le machine learning`. Le cours entier est disponible sur [LinkedIn Learning](https://www.linkedin.com/learning/python-pour-le-machine-learning).
 
 ![Nom final de la formation](https://media.licdn.com/dms/image/v2/D4E0DAQEzCmZbL3OjBg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1731579011854?e=2147483647&v=beta&t=MciXfAgWcmLSM4DqdH41wtRNRvQvkFJUwOLdY44N22A)
 
