@@ -2,7 +2,7 @@
 
 Ce dossier Repository est lié au cours `Python pour le machine learning`. Le cours entier est disponible sur [LinkedIn Learning](https://www.linkedin.com/learning/python-pour-le-machine-learning).
 
-![Nom final de la formation](https://media.licdn.com/dms/image/v2/D4E0DAQEzCmZbL3OjBg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1731579011854?e=2147483647&v=beta&t=MciXfAgWcmLSM4DqdH41wtRNRvQvkFJUwOLdY44N22A)
+![Nom final de la formation](https://media.licdn.com/dms/image/v2/D4E0DAQEDuIV0hCDWWQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1731673625979?e=2147483647&v=beta&t=KnWd_NZjcDgR5CLS5WSUH8yQg9Ko89DH9gGOXKNX9tc)
 
 Cette formation s'adresse aux utilisateurs expérimentés de Python souhaitant appliquer des algorithmes de machine learning à des jeux de données. Vous découvrirez la régression, la classification et le clustering, ainsi que les méthodes d'évaluation des modèles. À travers des défis pratiques, vous apprendrez à préparer, traiter et normaliser vos données, tout en utilisant des outils comme CoderPad pour tester vos connaissances et affiner vos compétences. 
 
